@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/tutorial/project2/mlopswithdjango/mlruns/0/3ab564ad160b4f38a52611bd45b9ec92/artifacts
+end_time: 1722499890360
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ab564ad160b4f38a52611bd45b9ec92
+run_name: powerful-shoat-166
+run_uuid: 3ab564ad160b4f38a52611bd45b9ec92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722499890285
+status: 3
+tags: []
+user_id: Admin
